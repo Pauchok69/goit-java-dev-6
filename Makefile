@@ -1,0 +1,2 @@
+migration:
+	gradle flywayMigrate -i
